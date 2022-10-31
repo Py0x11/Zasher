@@ -28,7 +28,7 @@ cd Zasher
 zasher.exe -in example@mail.com
 ```
 # To Delete the Leaked Data
-```
+```cmd
 zasher.exe -in example@mail.com -del example@mail.com
 ```
 - Enter the Email in the new Window popup !!
