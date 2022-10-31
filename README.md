@@ -21,11 +21,18 @@ Source Code is Also Available ;
 
 Uses no Aditional Library except Requests ;
 
-## Windows 
+## Windows
+# To Check Email Username or Phone Number [Replace example@gmail.com]
 ```cmd
 cd Zasher
-zasher.exe
+zasher.exe -in example@mail.com
 ```
+# To Delete the Leaked Data
+```
+zasher.exe -in example@mail.com -del example@mail.com
+```
+- Enter the Email in the new Window popup !!
+- a email regarding data removal confimation will be sent to you email ID Sepecified !!
 ## Thanks
 ## **Thanks to Rapid API**
 ![N|Solid](https://lefthook.com/wp-content/uploads/rapidapi-final.png)
